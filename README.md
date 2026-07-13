@@ -2,9 +2,7 @@
 # Indian Million-Plus Cities (2015–2025)
 
 ## Study
-Urban morphology governs divergent thermal trajectories: 
-A multi-city diagnostic framework for Indian million-plus 
-cities (2015-2025)
+Urban LULC, LST and Landscape Fragmentation Analysis — Indian Million-Plus Cities (2015–2025)
 
 ## Platform
 Google Earth Engine (GEE) Python API via Google Colab
@@ -33,7 +31,12 @@ Full Google Colab notebooks (.ipynb) will be uploaded
 upon manuscript acceptance.
 
 ## Author
-Abhishek Chakraborty
+Abhishek Chakraborty  
+MSc Geography (Advances in Remote Sensing and Urban GIS)  
+Department of Geography, School of Earth Sciences  
+Central University of Tamil Nadu
 
 ## Supervisor
-Prof. Sulochana Shekhar
+Prof. Sulochana Shekhar  
+Professor, Department of Geography, School of Earth Sciences  
+Central University of Tamil Nadu
