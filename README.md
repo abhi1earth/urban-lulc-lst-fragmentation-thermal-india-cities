@@ -17,7 +17,7 @@ Hyderabad | Ahmedabad | Pune | Surat
 2015 | 2020 | 2025
 
 ## Key Methods
-- LULC Classification (Random Forest + SHAP validation)
+- LULC Classification (Random Forest)
 - SHAP feature importance analysis
 - LST-based thermal anomaly classification
   (Global SD-threshold method)
